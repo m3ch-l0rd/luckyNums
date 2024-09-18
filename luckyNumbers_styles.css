@@ -1,0 +1,36 @@
+body {
+	background-color: yellow;
+
+}
+
+h1 {
+text-align: center;
+font-size: 60px;
+
+}
+
+
+#errthang {
+background-color: blue;
+
+max-width: 60%;
+max-height: 60%;
+border: 5px solid black;
+
+margin: auto;
+text-align: center;
+}
+
+#result {
+color: white;
+margin: 20px;
+padding: 10px;
+}
+
+#button {
+cursor: pointer;
+background-color: green;
+color: white;
+margin: 20px;
+padding: 15px;
+}
